@@ -29,8 +29,8 @@
 - [✅] Create program sharing functionality
 - [ ] Implement program duplication
 - [ ] Add program archiving
-- [ ] Create program analytics dashboard
-  - [ ] Design wireframes and mockups for the dashboard layout
+- [✅] Create program analytics dashboard
+  - [✅] Design wireframes and mockups for the dashboard layout
   - [ ] Implement key metrics display (e.g., program completion rate, client engagement)
   - [ ] Add data visualization components (charts, graphs)
   - [ ] Integrate real-time data fetching from Firebase
