@@ -30,7 +30,8 @@
 - [ ] Implement program duplication
 - [ ] Add program archiving
 - [✅] Create program analytics dashboard
-  - [🟠] Design wireframes and mockups for the dashboard layout
+  - [✅] Design wireframes and mockups for the dashboard layout
+    - Proposed layout includes header, key metrics, data visualization, client list, and footer sections.
   - [ ] Implement key metrics display (e.g., program completion rate, client engagement)
   - [ ] Add data visualization components (charts, graphs)
   - [ ] Integrate real-time data fetching from Firebase
